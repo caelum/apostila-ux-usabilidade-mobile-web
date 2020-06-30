@@ -1,0 +1,293 @@
+titulo: "UX e Usabilidade aplicados em Mobile e Web"
+descricao: "Aprenda a desenvolver sistemas com experiência agradável. Tudo com as práticas mais recentes do mercado como Mobile First, Design Thinking, Gamestorming e UX Canvas. Apostila gratuita da Caelum"
+capitulos: 
+  -
+    titulo: "Experiência do Usuário"
+    arquivo: 01-experiencia.md
+    codigo: experiencia
+    secoes:
+      -
+        titulo: "O que é Experiência do Usuário?"
+        codigo: "o-que-e-experiencia-do-usuario"
+      -
+        titulo: "ISO 9241-210"
+        codigo: "iso-9241-210"
+      -
+        titulo: "A Evolução da Experiência do Usuário"
+        codigo: "a-evolucao-da-experiencia-do-usuario"
+      -
+        titulo: "Para saber mais: O Caso ClearRX"
+        codigo: "para-saber-mais-o-caso-clearrx"
+      -
+        titulo: "Elementos da Experiência do Usuário"
+        codigo: "elementos-da-experiencia-do-usuario"
+      -
+        titulo: "Planos da Experiência do Usuário"
+        codigo: "planos-da-experiencia-do-usuario"
+  -
+    titulo: "Design de Interação"
+    arquivo: 02-design.md
+    codigo: design
+    secoes:
+      -
+        titulo: "Quatro Abordagens para Design de Interação"
+        codigo: "quatro-abordagens-para-design-de-interacao"
+      -
+        titulo: "Design Centrado no Usuário"
+        codigo: "design-centrado-no-usuario"
+  -
+    titulo: "Time e Projeto"
+    arquivo: 03-time-e-projeto.md
+    codigo: time-e-projeto
+    secoes:
+      -
+        titulo: "Gamestorming - Montar time heterogêneo"
+        codigo: "gamestorming-montar-time-heterogeneo"
+      -
+        titulo: "Kanban"
+        codigo: "kanban"
+      -
+        titulo: "Os Kanbans de UX"
+        codigo: "os-kanbans-de-ux"
+      -
+        titulo: "Gamestorming - Definir projeto mobile"
+        codigo: "gamestorming-definir-projeto-mobile"
+      -
+        titulo: "O triângulo de ouro"
+        codigo: "o-triangulo-de-ouro"
+      -
+        titulo: "Gamestorming - Triângulo de Ouro"
+        codigo: "gamestorming-triangulo-de-ouro"
+      -
+        titulo: "Gamestorming - 360˚ View"
+        codigo: "gamestorming-360-view"
+  -
+    titulo: "Pesquisa"
+    arquivo: 04-pesquisa.md
+    codigo: pesquisa
+    secoes:
+      -
+        titulo: "Onde Buscar Informações?"
+        codigo: "onde-buscar-informacoes"
+      -
+        titulo: "Métodos e Propósitos"
+        codigo: "metodos-e-propositos"
+      -
+        titulo: "Entrevistas"
+        codigo: "entrevistas"
+      -
+        titulo: "Card Sorting"
+        codigo: "card-sorting"
+      -
+        titulo: "Recrutamento"
+        codigo: "recrutamento"
+      -
+        titulo: "Destilando a Pesquisa"
+        codigo: "destilando-a-pesquisa"
+      -
+        titulo: "Gamestorming - Entrevista, tirando dúvidas com o usuário"
+        codigo: "gamestorming-entrevista-tirando-duvidas-com-o-usuario"
+  -
+    titulo: "Personas"
+    arquivo: 05-personas.md
+    codigo: personas
+    secoes:
+      -
+        titulo: "Design Centrado no Usuário"
+        codigo: "design-centrado-no-usuario"
+      -
+        titulo: "O que personas não representam"
+        codigo: "o-que-personas-nao-representam"
+      -
+        titulo: "Benefícios"
+        codigo: "beneficios"
+      -
+        titulo: "Impedimentos"
+        codigo: "impedimentos"
+      -
+        titulo: "A importância dos objetivos"
+        codigo: "a-importancia-dos-objetivos"
+      -
+        titulo: "Criando Personas"
+        codigo: "criando-personas"
+      -
+        titulo: "Número de Personas"
+        codigo: "numero-de-personas"
+      -
+        titulo: "Persona simples"
+        codigo: "persona-simples"
+      -
+        titulo: "Proto-persona"
+        codigo: "proto-persona"
+      -
+        titulo: "Gamestorming - Criando proto-personas"
+        codigo: "gamestorming-criando-proto-personas"
+      -
+        titulo: "Os sete passos para criar Personas"
+        codigo: "os-sete-passos-para-criar-personas"
+      -
+        titulo: "Secundária"
+        codigo: "secundaria"
+      -
+        titulo: "Mapa de empatia"
+        codigo: "mapa-de-empatia"
+      -
+        titulo: "Templates de persona"
+        codigo: "templates-de-persona"
+      -
+        titulo: "Discussão: As narrativas são realmente necessárias?"
+        codigo: "discussao-as-narrativas-sao-realmente-necessarias"
+      -
+        titulo: "Gamestorming - Criando Persona no dia a dia"
+        codigo: "gamestorming-criando-persona-no-dia-a-dia"
+  -
+    titulo: "Modelando e identificando requisitos"
+    arquivo: 06-modelando.md
+    codigo: modelando
+    secoes:
+      -
+        titulo: "Modelo Mental"
+        codigo: "modelo-mental"
+      -
+        titulo: "Cenários"
+        codigo: "cenarios"
+      -
+        titulo: "Gamestorming - Criando cenário"
+        codigo: "gamestorming-criando-cenario"
+      -
+        titulo: "Análise de Tarefas"
+        codigo: "analise-de-tarefas"
+      -
+        titulo: "Fluxo de Tarefas"
+        codigo: "fluxo-de-tarefas"
+      -
+        titulo: "Sintetizando os Requisitos de Design"
+        codigo: "sintetizando-os-requisitos-de-design"
+      -
+        titulo: "User stories"
+        codigo: "user-stories"
+      -
+        titulo: "Escrevendo boas histórias"
+        codigo: "escrevendo-boas-historias"
+      -
+        titulo: "Gamestorming - Criando histórias com foco no usuário"
+        codigo: "gamestorming-criando-historias-com-foco-no-usuario"
+      -
+        titulo: "Equilíbrio entre cliente e usuário"
+        codigo: "equilibrio-entre-cliente-e-usuario"
+      -
+        titulo: "Gamestorming - UX Canvas"
+        codigo: "gamestorming-ux-canvas"
+      -
+        titulo: "Features"
+        codigo: "features"
+      -
+        titulo: "Gamestorming - Brainstorm de features com objetivos"
+        codigo: "gamestorming-brainstorm-de-features-com-objetivos"
+      -
+        titulo: "Priorizando features"
+        codigo: "priorizando-features"
+      -
+        titulo: "Gamestorming - Priorizando features com foco no usuário"
+        codigo: "gamestorming-priorizando-features-com-foco-no-usuario"
+  -
+    titulo: "Dos Requisitos ao Design"
+    arquivo: 07-requisitos.md
+    codigo: requisitos
+    secoes:
+      -
+        titulo: "Estrutura Geral"
+        codigo: "estrutura-geral"
+      -
+        titulo: "Refinando o Design"
+        codigo: "refinando-o-design"
+      -
+        titulo: "8 steps"
+        codigo: "8-steps"
+      -
+        titulo: "Gamestorming - criando rabiscoframe e wireframe em time"
+        codigo: "gamestorming-criando-rabiscoframe-e-wireframe-em-time"
+  -
+    titulo: "Padrões e Princípios do Design de Interação"
+    arquivo: 08-principios.md
+    codigo: principios
+    secoes:
+      -
+        titulo: "As dez heurísticas de Nielsen"
+        codigo: "as-dez-heuristicas-de-nielsen"
+      -
+        titulo: "Outros princípios para implementar interfaces eficazes"
+        codigo: "outros-principios-para-implementar-interfaces-eficazes"
+      -
+        titulo: "Padrões de Design de Interação"
+        codigo: "padroes-de-design-de-interacao"
+      -
+        titulo: "Padrões de Interação Comportamentais"
+        codigo: "padroes-de-interacao-comportamentais"
+      -
+        titulo: "Gamestorming - Colocando em prática os heurísticas de Nielsen"
+        codigo: "gamestorming-colocando-em-pratica-os-heuristicas-de-nielsen"
+      -
+        titulo: "Protótipos"
+        codigo: "prototipos"
+      -
+        titulo: "Gamestorming - Prototipagem em papel"
+        codigo: "gamestorming-prototipagem-em-papel"
+  -
+    titulo: "Usabilidade em dispositivos móveis"
+    arquivo: 09-usabilidade-mobile.md
+    codigo: usabilidade-mobile
+    secoes:
+      -
+        titulo: "Lei de Fitts"
+        codigo: "lei-de-fitts"
+      -
+        titulo: "Lei de Hick"
+        codigo: "lei-de-hick"
+      -
+        titulo: "Thumb Zones"
+        codigo: "thumb-zones"
+      -
+        titulo: "Enriquecendo seu produto com Microinteractions"
+        codigo: "enriquecendo-seu-produto-com-microinteractions"
+      -
+        titulo: "Tipografia"
+        codigo: "tipografia"
+      -
+        titulo: "Gamestorming - Criando 8 Steps com foco na usabilidade"
+        codigo: "gamestorming-criando-8-steps-com-foco-na-usabilidade"
+  -
+    titulo: "Design Visual"
+    arquivo: 10-design-visual.md
+    codigo: design-visual
+    secoes:
+      -
+        titulo: "O princípio C.R.A.P"
+        codigo: "o-principio-crap"
+      -
+        titulo: "Especificação do Design"
+        codigo: "especificacao-do-design"
+      -
+        titulo: "Teoria das Cores"
+        codigo: "teoria-das-cores"
+      -
+        titulo: "Facilitando essa escolha com o Adobe Color"
+        codigo: "facilitando-essa-escolha-com-o-adobe-color"
+  -
+    titulo: "Apêndice - Testes de Usabilidade"
+    arquivo: 11-usabilidade.md
+    codigo: usabilidade
+    secoes:
+      -
+        titulo: "O que é medido?"
+        codigo: "o-que-e-medido"
+      -
+        titulo: "Envolvidos"
+        codigo: "envolvidos"
+      -
+        titulo: "Preparação prévia"
+        codigo: "preparacao-previa"
+      -
+        titulo: "Gamestorming - Teste de usabilidade"
+        codigo: "gamestorming-teste-de-usabilidade"
+
